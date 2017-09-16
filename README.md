@@ -1,6 +1,8 @@
 # LifeApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.2.
+<!-- Badges section here. -->
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://travis-ci.org/vinayaksm/life-app)
 
 ## Development server
 
